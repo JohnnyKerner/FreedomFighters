@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://johnnykerner.github.io/FreedomFighters/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Home :: Freedom Fighters</title>
+    <link>https://johnnykerner.github.io/FreedomFighters/index.html</link>
+    <description>Freedom Fighters is a mod for Arma Reforger, the most recent entry in the famous series of military sandbox games published by Bohemia Interactive.&#xA;This mod adds a new game mode - called Freedom Fighters, a semi-persistent campaign, designed for single player and 2-8 players in co-op.&#xA;You will find here installation instructions, troubleshooting guide for most common problems, frequently asked questions and guides on how to further mod Freedom Fighters or adjust it to your playstyle.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="https://johnnykerner.github.io/FreedomFighters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Info</title>
+      <link>https://johnnykerner.github.io/FreedomFighters/info/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnnykerner.github.io/FreedomFighters/info/index.html</guid>
+      <description>General Features Next steps See installation instructions to prepare your game, and read through first steps to prepare yourself.</description>
+    </item>
+    <item>
+      <title>Help</title>
+      <link>https://johnnykerner.github.io/FreedomFighters/help/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnnykerner.github.io/FreedomFighters/help/index.html</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

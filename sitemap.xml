@@ -1,15 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://johnnykerner.github.io/FreedomFighters/</loc>
-    <lastmod>2025-04-08T21:17:39+02:00</lastmod>
-  </url><url>
-    <loc>https://johnnykerner.github.io/FreedomFighters/posts/</loc>
-    <lastmod>2025-04-08T21:17:39+02:00</lastmod>
-  </url><url>
-    <loc>https://johnnykerner.github.io/FreedomFighters/categories/</loc>
-  </url><url>
-    <loc>https://johnnykerner.github.io/FreedomFighters/tags/</loc>
+    <loc>https://johnnykerner.github.io/FreedomFighters/help/field-manual/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/info/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/info/install-instructions/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/help/common-problems/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/help/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/info/first-steps/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/info/recommended-mods/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/info/compatible-mods/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/info/license/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/help/faq/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/index.html</loc>
+  </url>
+  <url>
+    <loc>https://johnnykerner.github.io/FreedomFighters/tags/index.html</loc>
   </url>
 </urlset>

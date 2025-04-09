@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Help :: Freedom Fighters</title>
+    <link>https://johnnykerner.github.io/FreedomFighters/help/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://johnnykerner.github.io/FreedomFighters/help/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Field Manual</title>
+      <link>https://johnnykerner.github.io/FreedomFighters/help/field-manual/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnnykerner.github.io/FreedomFighters/help/field-manual/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Common problems</title>
+      <link>https://johnnykerner.github.io/FreedomFighters/help/common-problems/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnnykerner.github.io/FreedomFighters/help/common-problems/index.html</guid>
+      <description>This section will be filled in future.</description>
+    </item>
+    <item>
+      <title>Frequently asked questions</title>
+      <link>https://johnnykerner.github.io/FreedomFighters/help/faq/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnnykerner.github.io/FreedomFighters/help/faq/index.html</guid>
+      <description>What exactly is the Plus edition? Plus edition is just a pack of Freedom Fighters MANW 2025 edition and all recommended mods, available for free in Reforger Workshop. Plus edition is separated because Freedom Fighters takes part in the MANW 2025 contest as a standalone work.&#xA;Can we play in a bigger group than 8? You can try overriding the mission file using Reforger Workbench to allow more players. Keep in mind the gameplay may become unbalanced, you may experience performance issues or other unexpected problems.</description>
+    </item>
+  </channel>
+</rss>

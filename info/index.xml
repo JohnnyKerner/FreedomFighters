@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info :: Freedom Fighters</title>
+    <link>https://johnnykerner.github.io/FreedomFighters/info/index.html</link>
+    <description>General Features Next steps See installation instructions to prepare your game, and read through first steps to prepare yourself.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://johnnykerner.github.io/FreedomFighters/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation</title>
+      <link>https://johnnykerner.github.io/FreedomFighters/info/install-instructions/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnnykerner.github.io/FreedomFighters/info/install-instructions/index.html</guid>
+      <description>Single player / local hosting Use in-game mod browser to locate Freedom Fighters and select Download, as seen below:&#xA;Note Freedom Fighters is a large and complex gamemode, and we are not able to guarantee it’s compatibility with other mods except those officially recommended. You are welcome to play as you like, but remember to turn off other mods if you encounter any problems.</description>
+    </item>
+    <item>
+      <title>First steps</title>
+      <link>https://johnnykerner.github.io/FreedomFighters/info/first-steps/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnnykerner.github.io/FreedomFighters/info/first-steps/index.html</guid>
+      <description>What’s going on When you launch a fresh campaign, you can only spawn in a few selected towns. These towns have a non-empty pool of supporters. On spawn, you take control over a civilian character, which is picked among resistance supporters. As a result, supporters amount is reduced.&#xA;Note This means your respawn count is limited to your supporters count. Once you have nowhere to respawn and no-one else is alive (in multiplayer), the campaign will fail and you will have to start all over!</description>
+    </item>
+    <item>
+      <title>Recommended mods</title>
+      <link>https://johnnykerner.github.io/FreedomFighters/info/recommended-mods/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnnykerner.github.io/FreedomFighters/info/recommended-mods/index.html</guid>
+      <description>Mods are listed in alphabetical order. They are not required to fully enjoy Freedom Fighters, but are a nice and tested addition.&#xA;Tip To quickly play with all recommended mods, just install Freedom Fighters Plus edition. It’s a pack containing MANW 2025 edition and all mods listed below.&#xA;Mod ID Name Version Workshop todo ACE Magazine Repack 1.0.3 Open todo todo Car Radio 4 All 1.0.3 Open Adds a handheld GPS receiver gadget. Useful when playing without map markers. Can be also used during driving, piloting, and on the map view. todo Foretec 401 GPS 0.1.0 Open todo</description>
+    </item>
+    <item>
+      <title>Compatible mods</title>
+      <link>https://johnnykerner.github.io/FreedomFighters/info/compatible-mods/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnnykerner.github.io/FreedomFighters/info/compatible-mods/index.html</guid>
+      <description>As Freedom Fighters is a passion project, we don’t have the time required to continuously test it with other mods. You can join our Discord server, where you can share reports with other players.&#xA;Join Discord</description>
+    </item>
+    <item>
+      <title>License</title>
+      <link>https://johnnykerner.github.io/FreedomFighters/info/license/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnnykerner.github.io/FreedomFighters/info/license/index.html</guid>
+      <description>TODO</description>
+    </item>
+  </channel>
+</rss>
